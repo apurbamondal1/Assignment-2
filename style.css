@@ -106,3 +106,25 @@ p{
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+
+
+
+
+.flag{
+    display: flex;
+   
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.fi{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+
